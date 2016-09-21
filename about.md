@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About
+title: About/Read Me
 permalink: /about/
 published: true
 ---
-# About/Read Me
 ## Introduction
 Upon reading [Read Me Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html), I have decided to write the intent of this mind repository.
 
